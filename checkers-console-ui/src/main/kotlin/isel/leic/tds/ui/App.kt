@@ -8,7 +8,7 @@ import isel.leic.tds.storage.StringSerializer
 import com.mongodb.ConnectionString
 import org.litote.kmongo.KMongo
 import com.mongodb.client.MongoDatabase
-
+//Trab de TDS
 fun main() {
     val tttFolder = "out"
 
